@@ -1,0 +1,45 @@
+
+.container {
+    width: 900px;
+    height: 900px;
+    background-color: aquamarine;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    background-color: brown;
+    font-size: 36px;
+    text-align: center;
+}
+.leftDiv {
+    width: 200px;
+    float: left;
+    background-color: blue;
+    height: 900px;
+}
+.midDiv {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 900px;
+    background-color: crimson;
+}
+.rightDiv {
+    width: 200px;
+    background-color: yellow;
+    float: right;
+    height: 900px;
+}
+.footer {
+    width: 900px;
+    height: 50px;
+    background-color: coral;
+    text-align: center;
+}
+.nav {
+    background-color: deepskyblue;
+    width: 900px;
+    height: 50px;
+}
